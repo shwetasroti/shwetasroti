@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shwetasroti
-- 👀 I’m interested in building enterprise leve user centric applications
+- 👀 I’m interested in building enterprise user centric applications
 - 🌱 I’m currently learning building a cloud based Software as a service product
 - 💞️ I’m looking to collaborate on building a SaaS product
 - 📫 How to reach me ..Just drop me a mail at sshweta0077@gmail.com
